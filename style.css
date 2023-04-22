@@ -1,0 +1,64 @@
+head {
+    background-color: rgb(107, 107, 255);
+}
+
+body {
+    background-color:rgb(130, 206, 206)
+    color:darkblue;
+}
+
+header {
+    text-align: center;
+    font-weight: bold;
+}
+
+h1, h2 {
+    text-align: center;
+    color: darkblue;
+}
+
+h1, h2, h3 {
+    font-family: 'Carlito', sans-serif;
+}
+
+table {
+    border: 1px solid darkblue;
+    width: 30%;
+}
+
+thead {
+    background-color: darkblue;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.selector {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.syntax {
+    text-align: center;
+    font-family: 'Source Code Pro', monospace;
+}
+
+.description {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.example {
+    text-align: center;
+    font-family: 'Source Code Pro', monospace;
+}
+
+td {
+    background-color: lightblue;
+    border-bottom: 2px solid blue;
+    /* border-bottom 1px solid blue; */
+}
