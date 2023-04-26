@@ -1,0 +1,99 @@
+body {
+    font-family: 'Inconsolata', monospace;
+    margin: 0 10%;
+  }
+  
+  .container {
+    border: 2px solid #a2a2a6;
+    padding: 10px;
+    margin: 10px auto;
+  }
+  
+  .color-container {
+    width: 100%;
+  }
+  
+  .color-panel {
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+  }
+  
+  .light-grayish-orange {
+    background-color: #F7E0D4;
+    color: #000;
+  }
+  
+  .vivid-orange {
+    background-color: #FC600A;
+    color: #fff;
+  }
+  
+  .dark-moderate-blue {
+    background-color: #347B98;
+    color: #fff;
+  }
+  
+  .strong-blue {
+    background-color: #1489B8;
+    color: #fff;
+  }
+
+  .very-dark-blue {
+    background-color: #092834;
+    color: #fff;
+  }
+  
+  .font-panel {
+    width: 45%;
+    display: inline-block;
+  }
+  
+  .font-label {
+    font-size: 20px;
+    text-decoration: underline;
+  }
+  
+  .regular {
+    font-style: normal;
+  }
+  
+  .italic {
+    font-style: italic;
+  }
+  
+  .bold {
+    font-weight: 700;
+  }
+  
+  .inconsolata {
+    font-family: 'Inconsolata', monospace;
+  }
+  
+  .inter {
+    font-family: 'Inter', sans-serif;
+  }
+  
+  .tajawal {
+    font-family: 'Tajawal', sans-serif;
+  }
+  
+  .text-panel h1 {
+    font-weight: 700;
+    font-size: 32px;
+    font-family: 'Inconsolata', monospace;
+  }
+  
+  .text-panel h2 {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: 'Inter', sans-serif;
+  }
+  
+  .text-panel p {
+    font-weight: 400;
+    font-size: 14px;
+    font-family: 'Tajawal', sans-serif;
+  }
